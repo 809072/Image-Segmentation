@@ -11,4 +11,4 @@ This script generates binary or multiclass segmentation masks from COCO-format d
 - Category IDs are mapped to contiguous indices (starting from 1).
 - Reserved `0` as background in multiclass mode.
 - Fully configurable via script.
-- Can process 3000–8000 images using `num_images` argument.
+- Can process number of images using `num_images` argument.
